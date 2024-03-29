@@ -15,3 +15,14 @@ The Best Neighborhood: Apply the metric from the previous section to determine t
 
 
 Conclusion: Reflect on how the data-driven determination of “best neighborhood” is the same or different from your personal favorite neighborhood. Each member of the group should write their own response to this.
+
+
+There are some key things that need to be included in your repository. Think of this project as a combination of all of the things we learned in skills labs this semester, with a focus on the last few weeks. So, there are some minimum requirements of files and information you will want to put in your group repo.
+
+The final report Jupyter notebook
+Each group member's personal notebook(s) (Show your work)
+A Readme that contains:
+Team name
+Team members and their email addresses
+Description and links to the datasets used
+A one sentence overview of your repository, meant for someone who is not familiar with the project
