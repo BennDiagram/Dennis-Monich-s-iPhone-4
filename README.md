@@ -5,6 +5,9 @@ Team Name: Dennis Monich's iPhone 4
 Ben Orr BAO31@pitt.edu
 Travis Mindel TSM57@pitt.edu
 
+https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data
+
+
 It is best to think about your final project as a data-driven report. You will need to put everything into a Jupyter notebook with the following structure:
 
 Introduction: Introduce the project, and your approach, talk about the process of how you came up with the metric and some alternatives you may have explored.
