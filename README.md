@@ -1,5 +1,9 @@
 # Dennis-Monich-s-iPhone-4
-Analyzing regional datasets to quantify the livability of Pittsburgh neighborhoods
+Analyzing regional datasets to quantify the livability of Pittsburgh neighborhoods.
+
+Team Name: Dennis Monich's iPhone 4
+Ben Orr BAO31@pitt.edu
+Travis Mindel TSM57@pitt.edu
 
 It is best to think about your final project as a data-driven report. You will need to put everything into a Jupyter notebook with the following structure:
 
