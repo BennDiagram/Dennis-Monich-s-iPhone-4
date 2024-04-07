@@ -8,6 +8,10 @@ Travis Mindel TSM57@pitt.edu
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data
 
 
+In this project, we are measuring the best neighborhood in oakland by looking at dataframes involving crime, *Enter Ben's dataframe,* and population density.
+
+We believed crime would be useful data to look at for this project because crime is very telling of a neighborhood's safety. Safety is very important in determining the "best" neighborhood anywhere. The safer the area, the more likely people are to travel there. Consequently, the more people travelling to a given neighborhood, and the safer the neighborhood, the more likely businesses are to open up in the neighborhood...(finish)
+
 It is best to think about your final project as a data-driven report. You will need to put everything into a Jupyter notebook with the following structure:
 
 Introduction: Introduce the project, and your approach, talk about the process of how you came up with the metric and some alternatives you may have explored.
