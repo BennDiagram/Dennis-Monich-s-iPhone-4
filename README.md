@@ -15,7 +15,7 @@ Pittsburgh Population by Neighborhood: https://data.wprdc.org/dataset/95af9f2c-6
 Introduction:
 
 Overview:
-In this project, we are measuring the best neighborhood in Pittsburgh by analyzing dataframes involving crime, *Enter Ben's dataframe,* and comparing this data with the population density of each neighborhood.
+In this project, we are measuring the best neighborhood in Pittsburgh by analyzing dataframes involving crime and poverty, and comparing this data with the population density of each neighborhood.
 
 We believed crime would be useful data to look at for this project because crime is very telling of a neighborhood's safety. Safety is very important in determining a desirable neighborhood anywhere. The safer the area, the more likely people are to travel there. Consequently, the more people travelling to a given neighborhood and the safer the neighborhood, the more likely businesses are to open up in the neighborhood, causing the neighborhood to grow, and the community to be satisfied.
 
