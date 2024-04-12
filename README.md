@@ -16,6 +16,6 @@ Pittsburgh Crime by Neighborhood: https://data.wprdc.org/dataset/arrest-data/res
 Introduction:
 
 Overview:
-In this project, we are measuring the best neighborhood in Pittsburgh by analyzing dataframes involving crime and poverty, and comparing this data with the population density of each neighborhood.
+In this project, we are measuring the best neighborhood in Pittsburgh by analyzing dataframes involving crime, poverty, and food access, and comparing this data with the population of each neighborhood.
 
-We believed crime would be useful data to look at for this project because crime is very telling of a neighborhood's safety. Safety is very important in determining a desirable neighborhood anywhere. The safer the area, the more likely people are to travel there. Consequently, the more people travelling to a given neighborhood and the safer the neighborhood, the more likely businesses are to open up in the neighborhood, causing the neighborhood to grow, and the community to be satisfied.
+We believed crime would be useful data to look at for this project because crime is very telling of a neighborhood's safety. Safety is very important in determining a desirable neighborhood anywhere. The safer the area, the more likely people are to travel there. Consequently, the more people travelling to a given neighborhood and the safer the neighborhood, the more likely businesses are to open up in the neighborhood, causing the neighborhood to grow, and the community to be satisfied. Additionally, access to food is important within a neighborhood, as it reduces the need for car-centered infrastructure and can improve the walkability of the area, another key feature of livability.
