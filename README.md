@@ -7,11 +7,11 @@ Travis Mindel TSM52@pitt.edu
 
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data
 
-Pittsburgh Poverty by Neighborhood: https://data.wprdc.org/dataset/c6265ffb-c86e-4a2c-870b-1aaa0772c449/resource/7996d143-c155-466e-8414-115f74997dd7/download/poverty-status-of-individuals-in-the-past-12-months-by-living-arrangement.csv
+Pittsburgh Poverty by Neighborhood (Ben): https://data.wprdc.org/dataset/c6265ffb-c86e-4a2c-870b-1aaa0772c449/resource/7996d143-c155-466e-8414-115f74997dd7/download/poverty-status-of-individuals-in-the-past-12-months-by-living-arrangement.csv
 
-Pittsburgh Population by Neighborhood: https://data.wprdc.org/dataset/95af9f2c-61c8-446b-ae72-852e195684f3/resource/a8414ed5-c50f-417e-bb67-82b734660da6/download/preliminarycitypittsburghneighborhood_pl94171summary-2.csv
+Pittsburgh Population by Neighborhood (Ben and Travis): https://data.wprdc.org/dataset/95af9f2c-61c8-446b-ae72-852e195684f3/resource/a8414ed5-c50f-417e-bb67-82b734660da6/download/preliminarycitypittsburghneighborhood_pl94171summary-2.csv
 
-Pittsburgh Crime by Neighborhood: https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
+Pittsburgh Crime by Neighborhood (Travis): https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
 
 Introduction:
 
